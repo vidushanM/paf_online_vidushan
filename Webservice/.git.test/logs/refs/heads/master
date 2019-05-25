@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 4e1714f0ff13c0a89f9cdc791359c129f7db2142 VidushanM <vidushanmanamperi@gmail.com> 1556590568 +0530	clone: from https://github.com/vidushanM/gacvmsbcrud.git
+4e1714f0ff13c0a89f9cdc791359c129f7db2142 95a62c352ede6a9871956656209cde5e4c9b2c97 VidushanM <vidushanmanamperi@gmail.com> 1556600942 +0530	commit: initial all crud functions done
+95a62c352ede6a9871956656209cde5e4c9b2c97 750bf15209b73b9edc2e98063548dd8fd888a54f VidushanM <vidushanmanamperi@gmail.com> 1556953069 +0530	commit: Buyers and Product CURD done
+750bf15209b73b9edc2e98063548dd8fd888a54f 8dba77ee0759b590a5f411bc61fef6afe2b7c82d VidushanM <vidushanmanamperi@gmail.com> 1558252720 +0530	commit: user level done for buyer
+8dba77ee0759b590a5f411bc61fef6afe2b7c82d f06041d464800dd588b6137c54cef73c01b14dab VidushanM <vidushanmanamperi@gmail.com> 1558666477 +0530	commit: all done integration
+f06041d464800dd588b6137c54cef73c01b14dab fe22ee4fcfd1f2543f01e2c93fb9029297cb0705 VidushanM <vidushanmanamperi@gmail.com> 1558666704 +0530	commit (merge): Merge remote-tracking branch 'origin/master'
+fe22ee4fcfd1f2543f01e2c93fb9029297cb0705 354ee37ce96e55ee6e5a7903c222bd2ae47cba42 VidushanM <vidushanmanamperi@gmail.com> 1558800974 +0530	commit: test
